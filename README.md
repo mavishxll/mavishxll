@@ -1,1 +1,1 @@
-I'm a programmer with a passion for creating and learning things
+programmer with a passion for creating and learning things
