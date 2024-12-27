@@ -1,1 +1,1 @@
-programmer with a passion for creating and learning things
+programmer who likes to build cool stuff.
