@@ -1,1 +1,1 @@
-creator
+full-stack dev, AI, ML
