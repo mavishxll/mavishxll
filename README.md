@@ -1,1 +1,1 @@
-full-stack, AI, ML
+full-stack - AI - ML
