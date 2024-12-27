@@ -1,1 +1,1 @@
-full-stack, back-end
+full-stack & back-end
